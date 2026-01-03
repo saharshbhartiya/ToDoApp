@@ -23,3 +23,7 @@
 .button:active {
   background-color: darkgoldenrod;
 }
+.completed {
+  text-decoration: line-through;
+  color: dimgrey;
+}
